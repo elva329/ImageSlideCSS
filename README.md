@@ -11,4 +11,4 @@ Hope you enjoy these photos: )
 
 Note: The demo may be not showed smoothly due to different GPUs of PCs.
 
-![Aaron Swartz]https://github.com/elva329/PureCSS-ImageSlideCSS/raw/master/images/demo.gif
+![Aaron Swartz](https://github.com/elva329/PureCSS-ImageSlideCSS/raw/master/images/demo.gif)
